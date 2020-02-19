@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyMapTest</string>
+
+    <string name="navi_ui_navi_title">组件直接导航</string>
+    <string name="navi_ui_navi_desc">组件直接导航</string>
+    <string name="navi_ui_component_theme_title">起始点算路（白色主题）</string>
+    <string name="navi_ui_custom_activity">自定义Activity的导航组件</string>
+    <string name="navi_ui_component_theme_desc">起始点算路（白色主题）</string>
+    <string name="navi_ui">导航组件<font color='red'>(新)</font></string>
+    <string name="navi_bywayof_poi_calculate_title">途经点算路</string>
+    <string name="navi_bywayof_poi_calculate_desc">有途经点的组件算路</string>
+    <string name="navi_start_end_poi_calculate_title">起终点算路</string>
+    <string name="navi_start_end_poi_calculate_desc">包含起点和终点的组件算路</string>
+    <string name="navi_end_poi_calculate_title">无起点算路</string>
+    <string name="navi_end_poi_calculate_desc">无起点有终点的组件算路</string>
+    <string name="blank"></string>
+</resources>
