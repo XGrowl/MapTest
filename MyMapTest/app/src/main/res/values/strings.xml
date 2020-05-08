@@ -14,4 +14,5 @@
     <string name="navi_end_poi_calculate_title">无起点算路</string>
     <string name="navi_end_poi_calculate_desc">无起点有终点的组件算路</string>
     <string name="blank"></string>
+    <string name="location_city">默认位置</string>
 </resources>

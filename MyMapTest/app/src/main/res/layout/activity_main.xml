@@ -8,6 +8,15 @@
         android:id="@+id/map_view"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center_horizontal"
+            android:id="@+id/location_city"
+            android:textSize="20dp"
+            android:text="@string/location_city"/>
     </com.amap.api.maps.MapView>
+
+
 
 </LinearLayout>

@@ -31,6 +31,7 @@ public class MainActivity extends AppCompatActivity {
         myLocationStyle.showMyLocation(true);//显示蓝点
         aMap.setMyLocationStyle(myLocationStyle);
         aMap.setMyLocationEnabled(true);//设置true表示启动显示定位蓝点
+        
 
     }
     @Override
